@@ -45,22 +45,22 @@ body{
     animation-delay: .9s ;
 }
 .greetings > span:nth-child(7){
-    animation-delay: .10s ;
+    animation-delay: 1.2s ;
 }
 .greetings > span:nth-child(8){
-    animation-delay: .11s;
+    animation-delay: 1.4s;
 }
 .greetings > span:nth-child(9){
-    animation-delay: .12s;
+    animation-delay: 1.6s;
 }
 .greetings > span:nth-child(10){
-    animation-delay: .13s;
+    animation-delay: 1.8s;
 }
 .greetings > span:nth-child(11){
-    animation-delay: .14s;
+    animation-delay: 2.0s;
 }
 .greetings > span:nth-child(12){
-    animation-delay: .15s;
+    animation-delay: 2.2s;
 }
 
 .description{
